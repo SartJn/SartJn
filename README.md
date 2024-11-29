@@ -15,6 +15,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" height="30" width="30">
-<img src="https://www.kindpng.com/picc/m/282-2827461_my-sql-logo-png-mysql-transparent-png.png](https://www.flaticon.com/free-icon/programing_15484291?term=mysql&page=1&position=5&origin=search&related_id=15484291)" height="30" width="30">
+<img src="https://www.flaticon.com/free-icon/mysql-database_18405529?term=mysql&page=1&position=30&origin=search&related_id=18405529" height="30" width="30">
 
 </div>
