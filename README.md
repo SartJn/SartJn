@@ -1,4 +1,6 @@
-## Yo! 👋
+## Yo! 👋, I'm Sarthak Jain
+
+<center> #Something about everything, everything about something </center>
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning SQL and DSA
