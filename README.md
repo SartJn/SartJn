@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning SQL and DSA
 - 📫 How to reach me: sartjn24@gmail.com
 
-### My Programming's Toolkit :
+### My Toolkit :
 <br>
 
 <div align="center"> 
