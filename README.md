@@ -13,10 +13,6 @@
 <div align="center"> 
   
 <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="30" width="30">
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="30" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="30" width="30">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" height="30" width="30">
-<img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" height="30" width="30">
 <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" height="30" width="30">
