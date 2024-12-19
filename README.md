@@ -7,11 +7,13 @@
 - 🌱 I’m currently learning SQL and DSA
 - 📫 How to reach me: sartjn24@gmail.com
 
+
+
+<div align="center"> 
+
 ### My Toolkit :
 <br>
 
-<div align="center"> 
-  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" height="30" width="30">
