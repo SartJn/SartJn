@@ -7,7 +7,7 @@
 - I’m working on my Data Science skills.
 - 🌱 I’m currently learning SQL and DSA.
 - 📫 How to reach me: sartjn24@gmail.com
-- 
+  
 
 
 
