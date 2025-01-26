@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SartJn&label=Profile%20views&color=0e75b6&style=flat" alt="janmejay-joshi" /> </p>
 
-- 🔭 Allways eyeing for the stars.
-- :magic_wand: I’m working on my Data Science skills.
+- 🔭 Always eyeing for the stars.
+- 🪄 I’m working on my Data Science skills.
 - 🌱 I’m currently learning SQL and DSA.
 - 📫 How to reach me: sartjn24@gmail.com
   
