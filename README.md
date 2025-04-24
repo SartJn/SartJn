@@ -20,7 +20,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" height="30" width="30">
 <img src="https://github.com/user-attachments/assets/8d09efd9-9fce-4545-95cd-488afa0e9aef" height="30" width="30">
-<img src="https://icons8.com/icon/7ej5ASIwdQXG/go-logo" height="30" width="30">
+<img src="https://www.flaticon.com/free-icon/go-lang_919838?term=go+lang&page=1&position=1&origin=search&related_id=919838.png" height="30" width="30">
 
 
 </div>
