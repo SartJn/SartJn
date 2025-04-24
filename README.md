@@ -20,7 +20,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" height="30" width="30">
 <img src="https://github.com/user-attachments/assets/8d09efd9-9fce-4545-95cd-488afa0e9aef" height="30" width="30">
-<img src="https://ded9.com/wp-content/uploads/2021/06/golang-thumb.png" height="30" width="30">
+<img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" height="30" width="30">
 
 
 </div>
