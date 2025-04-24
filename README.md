@@ -5,7 +5,7 @@
 
 - 🔭 Always eyeing for the stars.
 - 🪄 I’m working on my Data Science skills.
-- 🌱 I’m currently learning SQL and DSA.
+- 🌱 I’m currently learning SQL and Go(GoLang).
 - 📫 How to reach me: sartjn24@gmail.com
   
 
